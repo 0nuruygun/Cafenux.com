@@ -1,0 +1,289 @@
+{
+  "menu": {
+    "home": "Home",
+    "product": "Product",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "lang": "Language",
+    "user": "User",
+    "login": "Login",
+    "register": "Register",
+    "payment": "Payment"
+  },
+  "meta": {
+    "title": "Cafenux | Cafeteria Management and POS System",
+    "description": "Manage restaurant automation, QR code menus, stock tracking and multi-branch cafe management easily with Cafenux POS and cafeteria management system.",
+    "keywords": "cafeteria management system, POS software, restaurant automation software, cafe POS system, restaurant management software, qr code menu, waiter handheld POS, mobile POS system, self-service cafe software, restaurant order management system, cafeteria stock tracking, affordable POS software for small businesses, fast order management software, delivery and table order management, multi-branch cafe management system, customer satisfaction software, cloud-based restaurant management, POS software prices"
+  },
+  "brand": "Cafenux Cafeteria Management System",
+  "rights": "All rights reserved.",
+  "footer": {
+    "addressLabel": "Address",
+    "address": "Van Technopark, Bardakçı, 65090 Van Merkez/Van",
+    "contact": "Contact",
+    "emailLabel": "Email",
+    "email": "info@scrart.com",
+    "phoneLabel": "Phone",
+    "phone": "+90 538 070 8860"
+  },
+  "slider": {
+    "alt": "Cafenux Cafeteria Management System",
+    "cta": {
+      "freeDemo": "Get Free Demo",
+      "seeDetails": "See Details"
+    },
+    "1": {
+      "top": "Take Your Business to the Future",
+      "middle": {
+        "blue": "Cloud-Based",
+        "red": "Cafe Management"
+      },
+      "p1": "With mobile POS system and multi-branch",
+      "p2": "cafe management system, boost your speed."
+    },
+    "2": {
+      "top": "Fast and Reliable POS System",
+      "middle": {
+        "blue": {
+          "line1": "Staff",
+          "line2": "Performance"
+        },
+        "red": "Measurement"
+      },
+      "p1": "Eliminate wrong, missing or faulty orders.",
+      "p2": "Earn your customers’ satisfaction."
+    },
+    "3": {
+      "top": "Track Your Orders Instantly",
+      "middle": {
+        "blue": "Online Tracking and",
+        "red": "Revenue Control"
+      },
+      "p1": "Restaurant order management system",
+      "p2": "with detailed performance analysis",
+      "pTail": " keeps your business always under control."
+    },
+    "4": {
+      "top": "Strengthen Your Reservation Management",
+      "middle": {
+        "blue": "Easy Category and",
+        "red": "Product Management"
+      },
+      "p1": "Customize your categories and products",
+      "p2": "Compare sales figures to enhance",
+      "pTail": " your product management."
+    }
+  },
+  "services": {
+    "1": {
+      "title": "Smart POS Management",
+      "desc": "Manage your orders quickly and accurately with Cafenux. With the smart POS system, table, waiter and product tracking is now very easy."
+    },
+    "2": {
+      "title": "Online Order Tracking",
+      "desc": "Track customer orders instantly. Experience both speed and security with QR code-supported mobile ordering system."
+    },
+    "3": {
+      "title": "Performance Control Panel",
+      "desc": "View waiter and kitchen performance with detailed reports. Control all processes from a single management panel."
+    },
+    "4": {
+      "title": "Mobile-Friendly Menu",
+      "desc": "Offer customers a digital menu via QR code. Modernize the ordering experience with a mobile-friendly design."
+    },
+    "5": {
+      "title": "Integrated Reporting",
+      "desc": "Analyze sales, products, and stock reports in detail. A powerful reporting tool that increases efficiency in cafeteria management."
+    }
+  },
+  "about": {
+    "title": "Cafenux Cafeteria Management System,",
+    "description": "Developed specifically for modern businesses in the field of restaurant automation and <strong>POS software</strong>. Thanks to QR code menu support, your customers can place orders quickly, securely, and contactlessly. At the same time, with waiter handheld terminal integration, you can manage both kitchen and service processes simultaneously. Cafenux’s <strong>restaurant management software</strong> and <strong>cafe POS software</strong> solutions increase customer satisfaction by completely eliminating order confusion. In addition, with <strong>multi-branch cafe management</strong> support, you can control your businesses in different locations from a single panel, easily manage stock tracking, waiter performance measurement, and sales analysis. Cafenux also provides the best answer for small businesses looking for an affordable <strong>mobile POS system</strong>; with its flexible and cloud-based structure, it appeals to businesses of all sizes. With its user-friendly interface, your staff adapts to the system with minimal training, thus ensuring speed and efficiency in your business processes."
+  },
+  "process": {
+    "subtitle": "Meet Cafenux",
+    "title": "Smart Cafeteria Management System",
+    "steps": {
+      "1": {
+        "title": "Easy Order Management",
+        "desc": "Cafenux allows you to manage your orders quickly and accurately with QR code and digital menu support."
+      },
+      "2": {
+        "title": "Table and Waiter Tracking",
+        "desc": "Get instant performance reports for each table and waiter, increasing customer satisfaction."
+      },
+      "3": {
+        "title": "Online Order Tracking",
+        "desc": "View your customers’ orders instantly and manage your kitchen processes more efficiently."
+      },
+      "4": {
+        "title": "Advanced Reporting",
+        "desc": "Increase your profitability by analyzing sales and product reports in detail."
+      },
+      "5": {
+        "title": "Mobile-Compatible Solution",
+        "desc": "Manage your business from anywhere thanks to its compatibility with all devices. Monitor waiter performance with the order app."
+      }
+    }
+  },
+  "apps": {
+    "subtitle": "Discover the advantages with Cafenux",
+    "title": "Professional Cafeteria Solutions",
+    "description": "Cafenux provides customized package solutions for businesses, enabling professional management without the need for costly servers. Always by your side with secure, scalable, and 24/7 support; Cafenux makes a difference in the industry with <strong>cloud-based restaurant management</strong>, <strong>QR code menu</strong>, <strong>smart POS system</strong>, and integrated reporting modules. With <strong>waiter handheld terminals</strong> and mobile device support, businesses take orders faster and more accurately. At the same time, with <strong>delivery management</strong> and table order control modules, customer satisfaction is maximized. With Cafenux, you not only increase sales but also reduce workload. With regular updates, the system always stays up to date and adapts to your evolving needs. Thus, Cafenux becomes a reliable digital partner in restaurant and cafe management."
+  },
+  "plans": {
+    "cta": "See More",
+    "choice": [
+      {
+        "name": "Starter Plan",
+        "price": "$19",
+        "duration": "3 Months",
+        "features": [
+          "Modern & Creative Design",
+          "Premium Plugins",
+          "Clean Code",
+          "Responsive Layout",
+          "Google Fonts",
+          "Highly Customizable"
+        ]
+      },
+      {
+        "name": "Standard Plan",
+        "price": "$59",
+        "duration": "6 Months",
+        "features": [
+          "Modern & Creative Design",
+          "Premium Plugins",
+          "Clean Code",
+          "Responsive Layout",
+          "Google Fonts",
+          "Highly Customizable"
+        ]
+      },
+      {
+        "name": "Premium Plan",
+        "price": "$99",
+        "duration": "12 Months",
+        "features": [
+          "Modern & Creative Design",
+          "Premium Plugins",
+          "Clean Code",
+          "Responsive Layout",
+          "Google Fonts",
+          "Highly Customizable"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "CafeNux Gallery",
+    "members": [
+      {
+        "name": "Jason Wudex",
+        "role": "Grade One",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Mia Twain",
+        "role": "Grade Two",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Peter Farry",
+        "role": "Grade One",
+        "image": "assets/images/team-3.jpg"
+      },
+      {
+        "name": "Hayden Wood",
+        "role": "Grade Three",
+        "image": "assets/images/team-4.jpg"
+      },
+      {
+        "name": "Shania Jackson",
+        "role": "Grade Two",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Jessica Biel",
+        "role": "Grade Five",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Jessica Jung",
+        "role": "Grade Three",
+        "image": "assets/images/team-3.jpg"
+      }
+    ]
+  },
+  "about_more": {
+    "sections": [
+      {
+        "title": "Cafenux, not only in Turkey,",
+        "text": "Cafenux is not limited to order and stock management; with the self-service order module, your customers can quickly place their own orders. In addition, with the integrated restaurant reservation system, you can plan tables in advance and provide flawless service even during peak hours.\n\nTo simplify financial processes, the restaurant accounting feature allows you to effortlessly track income and expenses. In addition, with cafe stock tracking and automation system support, you can monitor product movements of all your branches instantly.\n\nThe cafe payment system makes customer payments fast and secure. Furthermore, with restaurant customer management and loyalty program modules, you can build strong relationships with your customers and increase repeat visits.\n\nCafenux’s advanced POS tracking and flexible restaurant management software adapt to businesses of different sizes. On top of all this, the user-friendly cafe management software combines all modules in a single panel, bringing maximum efficiency to your business."
+      },
+      {
+        "title": "Cafenux’s reporting modules,",
+        "text": "Enable you to analyze your daily and weekly revenue, your best-selling products, and your busiest time periods. This way, you can shape your business strategies with data-driven decisions. In addition, thanks to the mobile-friendly structure of our system, managers can control the entire process from anywhere via tablet or phone.\n\nCafenux is not just software, but a digital solution for the growth of your business. With its modern design, user-friendly interface, and continuously updated structure, it is the perfect choice for everyone—from those looking for an <strong>affordable POS system for small businesses</strong> to large chain restaurants. Reduce your workload, increase customer satisfaction, and take your business into the future with Cafenux."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Payment Information",
+    "invoice": {
+      "label": "Invoice",
+      "items": "Items",
+      "item1": "Legal Advising",
+      "item2": "Expert Consulting",
+      "qty": "Qty",
+      "price": "Price",
+      "total": "Total",
+      "totalAmount": "Total Amount",
+      "note": "Lorem ipsum dolor sit amet elit. Adipisci ea harum sed quaerat tenetur"
+    },
+    "form": {
+      "name": "Name",
+      "cardNumber": "Card Number",
+      "generateRandom": "generate random",
+      "expiration": "Expiration",
+      "securityCode": "Security Code",
+      "submit": "Submit"
+    },
+    "cardSvg": {
+      "cardnumber": "card number",
+      "cardholdername": "cardholdername",
+      "expiration": "expiration",
+      "valid": "VALID",
+      "thru": "THRU"
+    },
+    "money": "$"
+  },
+  "register": {
+    "title": "Registration Form",
+    "form": {
+      "tc": "ID Number",
+      "name": "First Name",
+      "surname": "Last Name",
+      "email": "Email",
+      "password": "Password",
+      "submit": "Register"
+    },
+    "messages": {
+      "success": "Registration successful!",
+      "error": "An error occurred during registration."
+    }
+  },
+  "login": {
+    "title": "Login",
+    "form": {
+      "tc": "ID Number",
+      "user": "Email",
+      "password": "Password",
+      "submit": "Submit"
+    },
+    "messages": {
+      "success": "Login successful!",
+      "error": "Invalid username or password."
+    }
+  }
+}

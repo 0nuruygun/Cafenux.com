@@ -1,0 +1,289 @@
+{
+  "menu": {
+    "home": "Inicio",
+    "product": "Producto",
+    "services": "Servicios",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "lang": "Idioma",
+    "user": "Usuario",
+    "login": "Iniciar sesión",
+    "register": "Registrarse",
+    "payment": "Pago"
+  },
+  "meta": {
+    "title": "Cafenux | Sistema de gestión de cafeterías y POS",
+    "description": "Con Cafenux gestione fácilmente la automatización de restaurantes, menús QR, seguimiento de inventario y administración de cafeterías con múltiples sucursales.",
+    "keywords": "sistema de gestión de cafeterías, software POS, software de automatización de restaurantes, sistema POS para cafés, software de gestión de restaurantes, menú con código QR, terminal POS para camareros, sistema POS móvil, software de autoservicio para cafeterías, sistema de gestión de pedidos de restaurantes, seguimiento de inventario de cafeterías, software POS asequible para pequeños negocios, software de pedidos rápidos, gestión de entregas y pedidos en mesa, sistema de gestión de múltiples sucursales, software para satisfacción del cliente, gestión de restaurantes en la nube, precios software POS"
+  },
+  "brand": "Sistema de Gestión de Cafeterías Cafenux",
+  "rights": "Todos los derechos reservados.",
+  "footer": {
+    "addressLabel": "Dirección",
+    "address": "Van Teknokent, Bardakçı, 65090 Van Merkez/Van",
+    "contact": "Contacto",
+    "emailLabel": "Correo",
+    "email": "info@scrart.com",
+    "phoneLabel": "Teléfono",
+    "phone": "+90 538 070 8860"
+  },
+  "slider": {
+    "alt": "Sistema de Gestión de Cafeterías Cafenux",
+    "cta": {
+      "freeDemo": "Obtener Demo Gratis",
+      "seeDetails": "Ver Detalles"
+    },
+    "1": {
+      "top": "Lleva tu negocio al futuro",
+      "middle": {
+        "blue": "Basado en la Nube",
+        "red": "Gestión de Cafés"
+      },
+      "p1": "Sistema de comandas móviles y gestión de múltiples sucursales",
+      "p2": "que acelera tu negocio."
+    },
+    "2": {
+      "top": "Sistema de Comandas Rápido y Confiable",
+      "middle": {
+        "blue": {
+          "line1": "Rendimiento",
+          "line2": "del Personal"
+        },
+        "red": "Evalúa"
+      },
+      "p1": "Reduce a cero los pedidos incorrectos o incompletos.",
+      "p2": "Gana la satisfacción de tus clientes."
+    },
+    "3": {
+      "top": "Sigue tus pedidos en tiempo real",
+      "middle": {
+        "blue": "Seguimiento en línea y",
+        "red": "Control de Ingresos"
+      },
+      "p1": "Sistema de gestión de pedidos de restaurantes",
+      "p2": "y análisis detallado de rendimiento",
+      "pTail": " para mantener siempre el control de tu negocio."
+    },
+    "4": {
+      "top": "Fortalece tu gestión de reservas",
+      "middle": {
+        "blue": "Gestión fácil de categorías y",
+        "red": "Productos"
+      },
+      "p1": "Personaliza tus categorías y productos",
+      "p2": "Compara cifras de ventas para",
+      "pTail": " mejorar tu gestión."
+    }
+  },
+  "services": {
+    "1": {
+      "title": "Gestión Inteligente de Comandas",
+      "desc": "Con Cafenux gestiona tus pedidos de forma rápida y sin errores. El sistema inteligente de comandas facilita el seguimiento de mesas, camareros y productos."
+    },
+    "2": {
+      "title": "Seguimiento de Pedidos en Línea",
+      "desc": "Sigue los pedidos de los clientes en tiempo real. Con el sistema de pedidos móviles con soporte QR combina velocidad y seguridad."
+    },
+    "3": {
+      "title": "Panel de Control de Rendimiento",
+      "desc": "Visualiza el rendimiento de camareros y cocina con informes detallados. Controla todos los procesos desde un solo panel."
+    },
+    "4": {
+      "title": "Menú Compatible con Móviles",
+      "desc": "Ofrece un menú digital mediante código QR a tus clientes. Con el diseño adaptable, moderniza la experiencia de pedido."
+    },
+    "5": {
+      "title": "Informes Integrados",
+      "desc": "Analiza en detalle tus ventas, productos e inventario. Una herramienta poderosa para aumentar la eficiencia en la gestión de cafeterías."
+    }
+  },
+  "about": {
+    "title": "Sistema de Gestión de Cafeterías Cafenux,",
+    "description": "Diseñado especialmente para negocios modernos en el campo de la <strong>automatización de restaurantes</strong> y <strong>programas de comandas</strong>. Con el soporte de menú QR, tus clientes pueden realizar pedidos de forma rápida, segura y sin contacto. Además, gracias a la integración con terminales de camareros, puedes gestionar simultáneamente cocina y servicio. Las soluciones de <strong>software de gestión de restaurantes</strong> y <strong>software de comandas de cafetería</strong> de Cafenux aumentan la satisfacción del cliente y eliminan la confusión en los pedidos. Con el soporte de <strong>gestión de múltiples sucursales</strong>, puedes controlar todas tus operaciones desde un único panel, incluyendo el seguimiento de inventario, la medición de rendimiento de camareros y el análisis de ventas. Cafenux también es la mejor opción para pequeñas empresas que buscan un <strong>sistema de comandas móviles</strong> económico; con su estructura flexible y basada en la nube, se adapta a negocios de cualquier tamaño. Su interfaz fácil de usar permite que tu personal se adapte con mínima capacitación, garantizando velocidad y eficiencia en tus procesos."
+  },
+  "process": {
+    "subtitle": "Descubre Cafenux",
+    "title": "Sistema Inteligente de Gestión de Cafeterías",
+    "steps": {
+      "1": {
+        "title": "Gestión Fácil de Pedidos",
+        "desc": "Cafenux, con soporte de menú QR y digital, permite gestionar tus pedidos de forma rápida y sin errores."
+      },
+      "2": {
+        "title": "Seguimiento de Mesas y Camareros",
+        "desc": "Obtén informes de rendimiento en tiempo real por cada mesa y camarero para mejorar la satisfacción del cliente."
+      },
+      "3": {
+        "title": "Seguimiento de Pedidos en Línea",
+        "desc": "Visualiza inmediatamente los pedidos de tus clientes y gestiona mejor los procesos de cocina."
+      },
+      "4": {
+        "title": "Informes Avanzados",
+        "desc": "Analiza detalladamente tus ventas y productos para aumentar la rentabilidad de tu negocio."
+      },
+      "5": {
+        "title": "Solución Compatible con Móviles",
+        "desc": "Gestiona tu negocio desde cualquier lugar con su estructura compatible con todos los dispositivos. Supervisa el rendimiento con la aplicación de pedidos para camareros."
+      }
+    }
+  },
+  "apps": {
+    "subtitle": "Descubre las ventajas de Cafenux",
+    "title": "Soluciones Profesionales para Cafeterías",
+    "description": "Cafenux ofrece soluciones de paquetes personalizados para las necesidades de los negocios, permitiendo una gestión profesional sin necesidad de servidores costosos. Seguro, escalable y con soporte 24/7, Cafenux siempre está contigo; con <strong>gestión de restaurantes en la nube</strong>, <strong>menú QR</strong>, <strong>sistema inteligente de comandas</strong> y módulos de informes integrados, marca la diferencia en el sector. Los negocios pueden recibir pedidos más rápidos y precisos gracias al soporte de <strong>terminales de camareros</strong> y dispositivos móviles. Además, con los módulos de <strong>gestión de entrega</strong> y control de pedidos en mesas, la satisfacción del cliente alcanza el máximo nivel. Con Cafenux no solo aumentas tus ventas, también reduces tu carga de trabajo. Con actualizaciones periódicas, el sistema se mantiene siempre actualizado y se adapta a tus necesidades en evolución. Así, Cafenux se convierte en un socio digital confiable en la gestión de restaurantes y cafeterías."
+  },
+  "plans": {
+    "cta": "Ver Más",
+    "choice": [
+      {
+        "name": "Plan Inicial",
+        "price": "$19",
+        "duration": "3 Meses",
+        "features": [
+          "Diseño Moderno y Creativo",
+          "Complementos Premium",
+          "Código Limpio",
+          "Diseño Responsivo",
+          "Fuentes de Google",
+          "Alta Personalización"
+        ]
+      },
+      {
+        "name": "Plan Estándar",
+        "price": "$59",
+        "duration": "6 Meses",
+        "features": [
+          "Diseño Moderno y Creativo",
+          "Complementos Premium",
+          "Código Limpio",
+          "Diseño Responsivo",
+          "Fuentes de Google",
+          "Alta Personalización"
+        ]
+      },
+      {
+        "name": "Plan Premium",
+        "price": "$99",
+        "duration": "12 Meses",
+        "features": [
+          "Diseño Moderno y Creativo",
+          "Complementos Premium",
+          "Código Limpio",
+          "Diseño Responsivo",
+          "Fuentes de Google",
+          "Alta Personalización"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galería de Cafenux",
+    "members": [
+      {
+        "name": "Jason Wudex",
+        "role": "Grado Uno",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Mia Twain",
+        "role": "Grado Dos",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Peter Farry",
+        "role": "Grado Uno",
+        "image": "assets/images/team-3.jpg"
+      },
+      {
+        "name": "Hayden Wood",
+        "role": "Grado Tres",
+        "image": "assets/images/team-4.jpg"
+      },
+      {
+        "name": "Shania Jackson",
+        "role": "Grado Dos",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Jessica Biel",
+        "role": "Grado Cinco",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Jessica Jung",
+        "role": "Grado Tres",
+        "image": "assets/images/team-3.jpg"
+      }
+    ]
+  },
+  "about_more": {
+    "sections": [
+      {
+        "title": "Cafenux, no solo en Turquía,",
+        "text": "Cafenux no se limita únicamente a la gestión de pedidos e inventario; con el módulo de pedidos de autoservicio, tus clientes pueden realizar sus pedidos rápidamente. Además, con el sistema integrado de reservas de restaurantes, puedes planificar tus mesas con anticipación y ofrecer un servicio impecable incluso en horas punta.\n\nPara facilitar tus procesos financieros, la función de programa de contabilidad de restaurantes te permite llevar el control de ingresos y gastos sin esfuerzo. Con el soporte de seguimiento de inventario y sistema de automatización de cafeterías, puedes monitorear en tiempo real los movimientos de productos en todas tus sucursales.\n\nEl sistema de pagos de cafetería facilita las transacciones rápidas y seguras. Además, los módulos de gestión de clientes y programas de fidelización de restaurantes te ayudan a establecer lazos más fuertes con tus clientes, aumentando la tasa de visitas repetidas.\n\nEl seguimiento avanzado de comandas y la estructura flexible del software de gestión de restaurantes de Cafenux se adaptan a negocios de diferentes tamaños. Además, el programa de gestión de cafeterías, fácil de usar, reúne todos los módulos en un solo panel para brindar la máxima eficiencia a tu negocio."
+      },
+      {
+        "title": "Los módulos de informes que ofrece Cafenux,",
+        "text": "Te permiten analizar tus ingresos diarios y semanales, los productos más vendidos y las horas de mayor actividad. Así, puedes tomar decisiones estratégicas basadas en datos. Además, gracias a la compatibilidad móvil, los gerentes pueden controlar todo el proceso desde cualquier lugar, mediante tabletas o teléfonos.\n\nCafenux no es solo un software, es una solución digital para el crecimiento de tu negocio. Con su diseño moderno, interfaz fácil de usar y estructura en constante actualización, es una opción perfecta tanto para pequeñas empresas que buscan un <strong>programa de comandas asequible</strong> como para grandes cadenas de restaurantes. Con Cafenux reduces tu carga de trabajo, aumentas la satisfacción del cliente y llevas tu negocio al futuro."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Información de pago",
+    "invoice": {
+      "label": "Factura",
+      "items": "Artículos",
+      "item1": "Asesoría legal",
+      "item2": "Consultoría experta",
+      "qty": "Cant.",
+      "price": "Precio",
+      "total": "Total",
+      "totalAmount": "Monto total",
+      "note": "Lorem ipsum dolor sit amet elit. Adipisci ea harum sed quaerat tenetur"
+    },
+    "form": {
+      "name": "Nombre",
+      "cardNumber": "Número de tarjeta",
+      "generateRandom": "generar aleatorio",
+      "expiration": "Expiración",
+      "securityCode": "Código de seguridad",
+      "submit": "Enviar"
+    },
+    "cardSvg": {
+      "cardnumber": "número de tarjeta",
+      "cardholdername": "titular de la tarjeta",
+      "expiration": "expiración",
+      "valid": "VÁLIDO",
+      "thru": "HASTA"
+    },
+    "money": "€"
+  },
+  "register": {
+    "title": "Formulario de Registro",
+    "form": {
+      "tc": "Tc",
+      "name": "Nombre",
+      "surname": "Apellido",
+      "email": "Correo electrónico",
+      "password": "Contraseña",
+      "submit": "Registrarse"
+    },
+    "messages": {
+      "success": "¡Registro exitoso!",
+      "error": "Ocurrió un error durante el registro."
+    }
+  },
+  "login": {
+    "title": "Iniciar Sesión",
+    "form": {
+      "tc": "Tc",
+      "user": "Correo electrónico",
+      "password": "Contraseña",
+      "submit": "Enviar"
+    },
+    "messages": {
+      "success": "¡Inicio de sesión exitoso!",
+      "error": "Usuario o contraseña inválidos."
+    }
+  }
+}

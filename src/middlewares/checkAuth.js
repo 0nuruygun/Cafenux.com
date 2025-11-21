@@ -8,37 +8,48 @@
  * @param {EJSRequest} req
  * @param {EJSResponse} _res
  */
-const reCaptcha = async function (req, _res) {
+const reCaptcha = async function (capToken, remoteAddress) {
     try {
-        if (!req.body["g-recaptcha-response"]) {
-            console.log("err");
-            return { success: false, message: "Lütfen ben robot değilim kutusunu işaretleyin." };
+        if (!capToken || capToken === undefined || capToken === "" || capToken === null) {
+            return { success: false, message: "Lütfen doğrulamayı tamamlayın." };
         }
 
-        if (req.body["g-recaptcha-response"] === undefined || req.body["g-recaptcha-response"] === "" || req.body["g-recaptcha-response"] === null) {
-            return { success: false, message: "Please select captcha" };
-        }
-
-        // Secret Key
         const secretKey = process.env.CAPTCHA_SEC;
-        // Verify URL
-        const verifyUrl = `https://google.com/recaptcha/api/siteverify?secret=${secretKey}&response=${req.body["g-recaptcha-response"]}&remoteip=${req.socket.remoteAddress}`;
 
-        const response = await fetch(verifyUrl);
+        // Google reCAPTCHA v3 doğrulama URL
+        const verifyUrl = "https://www.google.com/recaptcha/api/siteverify";
+
+        // POST parametreleri
+        const params = new URLSearchParams();
+        params.append("secret", secretKey);
+        params.append("response", capToken);
+        if (remoteAddress) {
+            params.append("remoteip", remoteAddress);
+        }
+
+        const response = await fetch(verifyUrl, {
+            method: "POST",
+            headers: { "Content-Type": "application/x-www-form-urlencoded" },
+            body: params
+        });
+
         const result = await response.json();
 
-        // If not successful
-        if (result.success !== undefined && !result.success) {
-            return { success: false, message: "Captcha doğrulaması yapılamadı." };
-        } else {
-            return { success: true };
+        if (!result.success) {
+            return { success: false, message: "Captcha doğrulaması yapılamadı.", details: result };
         }
+
+        // İsteğe bağlı ek kontroller (v3 için)
+        // if (result.action !== "login" || result.score < 0.5) {
+        //     return { success: false, message: "Şüpheli etkinlik algılandı.", details: result };
+        // }
+
+        return { success: true, details: result };
     } catch (err) {
-        // TODO : Redirect to expressjs error.
-        console.log(err);
+        console.error("reCAPTCHA doğrulama hatası:", err);
+        return { success: false, message: "Sunucu hatası." };
     }
 };
-
 /**
  * @param {Object} data 
  * @param {string} url 
@@ -73,32 +84,23 @@ const postData = async function (data, url) {
  */
 const loginVerify = async (req, _res, next) => {
 
-    let capt = await reCaptcha(req);
+    let capt = await reCaptcha(req.body.recaptchaToken, req.socket.remoteAddress);
     if (capt.success === true) {
 
-        const { tc } = await req.body;
-
-        const tcCheck = await checkTcNum(tc)
-    
-        if (!tcCheck) {
-        req.mess = "Girmiş Olduğunuz Tc Hatalı veya Eksik !";
-        }
-        
-        else{
-            await postData({ email: req.body.user, password: req.body.pass }, "api/login").then((data) => {
-                if (!(data === undefined)) {
-                    if (data.success === true) {
-                        req.session.user = req.body.user;
-                        req.session.token = data.token;
-                        //onlineUsers.push({ sessionId: req.sessionID, roomId: data.roomId });
-                    } else {
-                        req.mess = data.message;
-                    }
+        await postData({ email: req.body.user, password: req.body.pass }, "api/login").then((data) => {
+            if (!(data === undefined)) {
+                if (data.success === true) {
+                    req.session.user = req.body.user;
+                    req.session.token = data.token;
+                    //onlineUsers.push({ sessionId: req.sessionID, roomId: data.roomId });
                 } else {
-                    req.mess = "Sunucudan yanıt alınamadı.";
+                    req.mess = data.message;
                 }
-            });
-        }
+            } else {
+                req.mess = "Sunucudan yanıt alınamadı.";
+            }
+        });
+        
     } else {
         req.mess = capt.message;
     }
@@ -111,18 +113,10 @@ const loginVerify = async (req, _res, next) => {
  * @param {EJSNextError} next
  */
 const registerUser = async (req, _res, next) => {
-    let capt = await reCaptcha(req);
-
-    const { tc } = await req.body;
-
-    const tcCheck = await checkTcNum(tc)
-  
-    if (!tcCheck) {
-      req.mess = "Girmiş Olduğunuz Tc Hatalı veya Eksik !";
-    }
-    else{
+    let capt = await reCaptcha(req.body.recaptchaToken, req.socket.remoteAddress);
+    
         if (capt.success === true) {
-            await postData({ tc: req.body.tc, name: req.body.name, lastname: req.body.surname, email: req.body.email, password: req.body.pass }, "api/register").then((data) => {
+            await postData({ name: req.body.name, lastname: req.body.surname, email: req.body.email, password: req.body.pass }, "api/register").then((data) => {
                 if (!(data === undefined)) {
                     if (data.success === true) {
                         req.session.user = req.body.user;
@@ -137,7 +131,6 @@ const registerUser = async (req, _res, next) => {
         } else {
             req.mess = capt.message;
         }
-    }
 
     next();
 };
@@ -147,25 +140,25 @@ const registerUser = async (req, _res, next) => {
  * @param {EJSResponse} _res
  * @param {EJSNextError} next
  */
-var checkTcNum = function (value) {
-    value = value.toString();
-    var isEleven = /^[0-9]{11}$/.test(value);
-    var totalX = 0;
-    for (var i = 0; i < 10; i++) {
-        totalX += Number(value.substr(i, 1));
-    }
-    var isRuleX = totalX % 10 == value.substr(10, 1);
-    var totalY1 = 0;
-    var totalY2 = 0;
-    for (var i = 0; i < 10; i += 2) {
-        totalY1 += Number(value.substr(i, 1));
-    }
-    for (var i = 1; i < 10; i += 2) {
-        totalY2 += Number(value.substr(i, 1));
-    }
-    var isRuleY = ((totalY1 * 7) - totalY2) % 10 == value.substr(9, 0);
-    return isEleven && isRuleX && isRuleY;
-  };
+//var checkTcNum = function (value) {
+//    value = value.toString();
+//    var isEleven = /^[0-9]{11}$/.test(value);
+//    var totalX = 0;
+//    for (var i = 0; i < 10; i++) {
+//        totalX += Number(value.substr(i, 1));
+//    }
+//    var isRuleX = totalX % 10 == value.substr(10, 1);
+//    var totalY1 = 0;
+//    var totalY2 = 0;
+//    for (var i = 0; i < 10; i += 2) {
+//        totalY1 += Number(value.substr(i, 1));
+//    }
+//    for (var i = 1; i < 10; i += 2) {
+//        totalY2 += Number(value.substr(i, 1));
+//    }
+//    var isRuleY = ((totalY1 * 7) - totalY2) % 10 == value.substr(9, 0);
+//    return isEleven && isRuleX && isRuleY;
+//  };
 
 /**
  * @param {EJSRequest} req

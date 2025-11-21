@@ -1,0 +1,289 @@
+{
+  "menu": {
+    "home": "Startseite",
+    "product": "Produkt",
+    "services": "Dienstleistungen",
+    "gallery": "Galerie",
+    "contact": "Kontakt",
+    "lang": "Sprache",
+    "user": "Benutzer",
+    "login": "Anmelden",
+    "register": "Registrieren",
+    "payment": "Zahlung"
+  },
+  "meta": {
+    "title": "Cafenux | Cafeteria Management- und Kassensystem",
+    "description": "Mit Cafenux verwalten Sie mühelos Restaurantautomatisierung, QR-Code-Menüs, Lagerbestände und die Verwaltung mehrerer Café-Filialen.",
+    "keywords": "cafeteria management system, kassensoftware, restaurant-automatisierungssoftware, café kassensystem, restaurant management software, qr code menü, kellner handheld kassensystem, mobiles kassensystem, selbstbedienungssoftware für cafés, bestellverwaltungssystem für restaurants, lagerverwaltung cafeteria, günstige kassensoftware für kleine Unternehmen, schnelle bestellsoftware, liefer- und tischbestellverwaltung, multi-filialen café management system, kundenzufriedenheitssoftware, cloudbasiertes restaurant management, kassensoftware preise"
+  },
+  "brand": "Cafenux Cafeteria Management System",
+  "rights": "Alle Rechte vorbehalten.",
+  "footer": {
+    "addressLabel": "Adresse",
+    "address": "Van Teknokent, Bardakçı, 65090 Van Merkez/Van",
+    "contact": "Kontakt",
+    "emailLabel": "E-Mail",
+    "email": "info@scrart.com",
+    "phoneLabel": "Telefon",
+    "phone": "+90 538 070 8860"
+  },
+  "slider": {
+    "alt": "Cafenux Cafeteria Management System",
+    "cta": {
+      "freeDemo": "Kostenlose Demo anfordern",
+      "seeDetails": "Details ansehen"
+    },
+    "1": {
+      "top": "Bringen Sie Ihr Geschäft in die Zukunft",
+      "middle": {
+        "blue": "Cloud-basiert",
+        "red": "Café-Management"
+      },
+      "p1": "Mobiles Kassensystem und Filialverwaltung",
+      "p2": "für mehr Geschwindigkeit und Effizienz."
+    },
+    "2": {
+      "top": "Schnelles und Zuverlässiges Kassensystem",
+      "middle": {
+        "blue": {
+          "line1": "Mitarbeiter-",
+          "line2": "Leistung"
+        },
+        "red": "Messen"
+      },
+      "p1": "Fehlerhafte und unvollständige Bestellungen eliminieren.",
+      "p2": "Gewinnen Sie die Zufriedenheit Ihrer Kunden."
+    },
+    "3": {
+      "top": "Verfolgen Sie Ihre Bestellungen in Echtzeit",
+      "middle": {
+        "blue": "Online-Tracking und",
+        "red": "Umsatzkontrolle"
+      },
+      "p1": "Restaurant-Bestellmanagementsystem",
+      "p2": "mit detaillierter Leistungsanalyse",
+      "pTail": " damit Sie Ihr Geschäft immer im Griff haben."
+    },
+    "4": {
+      "top": "Stärken Sie Ihr Reservierungsmanagement",
+      "middle": {
+        "blue": "Einfache Kategorie- und",
+        "red": "Produktverwaltung"
+      },
+      "p1": "Passen Sie Kategorien und Produkte an",
+      "p2": "Vergleichen Sie Verkaufszahlen und",
+      "pTail": " optimieren Sie Ihre Verwaltung."
+    }
+  },
+  "services": {
+    "1": {
+      "title": "Intelligente Kassenverwaltung",
+      "desc": "Mit Cafenux verwalten Sie Bestellungen schnell und fehlerfrei. Das intelligente Kassensystem erleichtert die Nachverfolgung von Tischen, Kellnern und Produkten."
+    },
+    "2": {
+      "title": "Online-Bestellverfolgung",
+      "desc": "Verfolgen Sie Kundenbestellungen in Echtzeit. Mit dem QR-unterstützten mobilen Bestellsystem erleben Sie Geschwindigkeit und Sicherheit zugleich."
+    },
+    "3": {
+      "title": "Leistungskontroll-Panel",
+      "desc": "Überwachen Sie die Leistung von Kellnern und Küche mit detaillierten Berichten. Kontrollieren Sie alle Prozesse von einem einzigen Panel."
+    },
+    "4": {
+      "title": "Mobilfreundliches Menü",
+      "desc": "Bieten Sie Ihren Kunden ein digitales Menü per QR-Code an. Mit dem responsiven Design modernisieren Sie das Bestellerlebnis."
+    },
+    "5": {
+      "title": "Integriertes Reporting",
+      "desc": "Analysieren Sie detailliert Ihre Verkäufe, Produkte und Lagerbestände. Ein starkes Tool zur Steigerung der Effizienz im Café-Management."
+    }
+  },
+  "about": {
+    "title": "Cafenux Cafeteria Management System,",
+    "description": "Speziell entwickelt für moderne Unternehmen im Bereich <strong>Restaurantautomatisierung</strong> und <strong>Kassensoftware</strong>. Mit der QR-Menü-Unterstützung können Ihre Kunden ihre Bestellungen schnell, sicher und kontaktlos aufgeben. Dank der Integration von Kellner-Handterminals können Sie Küche und Serviceprozesse gleichzeitig verwalten. Die <strong>Restaurant-Management-Software</strong> und <strong>Café-Kassen-Software</strong> von Cafenux steigern die Kundenzufriedenheit und beseitigen Verwirrung bei Bestellungen. Mit der <strong>Filialverwaltung</strong> können Sie verschiedene Standorte über ein einziges Panel kontrollieren und Inventar, Kellnerleistung sowie Verkaufsanalysen einfach durchführen. Cafenux ist auch die beste Lösung für kleine Betriebe, die ein günstiges <strong>mobiles Kassensystem</strong> suchen; seine flexible, cloudbasierte Struktur eignet sich für Unternehmen jeder Größe. Dank der benutzerfreundlichen Oberfläche passt sich Ihr Personal schnell an, was Geschwindigkeit und Effizienz in Ihren Prozessen erhöht."
+  },
+  "process": {
+    "subtitle": "Lernen Sie Cafenux kennen",
+    "title": "Intelligentes Cafeteria-Management-System",
+    "steps": {
+      "1": {
+        "title": "Einfache Bestellverwaltung",
+        "desc": "Mit QR-Code- und digitalem Menü-Support ermöglicht Ihnen Cafenux eine schnelle und fehlerfreie Bestellverwaltung."
+      },
+      "2": {
+        "title": "Tisch- und Kellnerverfolgung",
+        "desc": "Erhalten Sie Echtzeit-Leistungsberichte für jeden Tisch und Kellner, um die Kundenzufriedenheit zu steigern."
+      },
+      "3": {
+        "title": "Online-Bestellverfolgung",
+        "desc": "Sehen Sie Kundenbestellungen sofort und machen Sie Ihre Küchenprozesse effizienter."
+      },
+      "4": {
+        "title": "Erweitertes Reporting",
+        "desc": "Analysieren Sie Ihre Verkäufe und Produkte im Detail, um die Rentabilität Ihres Unternehmens zu steigern."
+      },
+      "5": {
+        "title": "Mobilfreundliche Lösung",
+        "desc": "Dank der Kompatibilität mit allen Geräten können Sie Ihr Geschäft von überall aus verwalten. Überwachen Sie die Leistung mit der Kellner-App."
+      }
+    }
+  },
+  "apps": {
+    "subtitle": "Entdecken Sie die Vorteile von Cafenux",
+    "title": "Professionelle Cafeteria-Lösungen",
+    "description": "Cafenux bietet maßgeschneiderte Paketlösungen für die Bedürfnisse von Unternehmen und ermöglicht professionelles Management ohne teure Server. Sicher, skalierbar und mit 24/7-Support ist Cafenux immer an Ihrer Seite; mit <strong>cloudbasiertem Restaurantmanagement</strong>, <strong>QR-Menü</strong>, <strong>intelligentem Kassensystem</strong> und integrierten Reporting-Modulen setzt es neue Maßstäbe in der Branche. Unternehmen können mit <strong>Kellner-Handterminals</strong> und mobilen Geräten Bestellungen schneller und präziser aufnehmen. Zudem steigern <strong>Liefermanagement</strong>- und Tischbestell-Module die Kundenzufriedenheit. Mit Cafenux steigern Sie nicht nur Ihren Umsatz, sondern reduzieren auch Ihre Arbeitsbelastung. Dank regelmäßiger Updates bleibt das System stets aktuell und passt sich Ihren wachsenden Bedürfnissen an. So wird Cafenux zu einem zuverlässigen digitalen Partner im Restaurant- und Café-Management."
+  },
+  "plans": {
+    "cta": "Mehr anzeigen",
+    "choice": [
+      {
+        "name": "Startplan",
+        "price": "$19",
+        "duration": "3 Monate",
+        "features": [
+          "Modernes & Kreatives Design",
+          "Premium Plugins",
+          "Sauberer Code",
+          "Responsives Layout",
+          "Google-Schriften",
+          "Hohe Anpassbarkeit"
+        ]
+      },
+      {
+        "name": "Standardplan",
+        "price": "$59",
+        "duration": "6 Monate",
+        "features": [
+          "Modernes & Kreatives Design",
+          "Premium Plugins",
+          "Sauberer Code",
+          "Responsives Layout",
+          "Google-Schriften",
+          "Hohe Anpassbarkeit"
+        ]
+      },
+      {
+        "name": "Premiumplan",
+        "price": "$99",
+        "duration": "12 Monate",
+        "features": [
+          "Modernes & Kreatives Design",
+          "Premium Plugins",
+          "Sauberer Code",
+          "Responsives Layout",
+          "Google-Schriften",
+          "Hohe Anpassbarkeit"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Cafenux Galerie",
+    "members": [
+      {
+        "name": "Jason Wudex",
+        "role": "Stufe Eins",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Mia Twain",
+        "role": "Stufe Zwei",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Peter Farry",
+        "role": "Stufe Eins",
+        "image": "assets/images/team-3.jpg"
+      },
+      {
+        "name": "Hayden Wood",
+        "role": "Stufe Drei",
+        "image": "assets/images/team-4.jpg"
+      },
+      {
+        "name": "Shania Jackson",
+        "role": "Stufe Zwei",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Jessica Biel",
+        "role": "Stufe Fünf",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Jessica Jung",
+        "role": "Stufe Drei",
+        "image": "assets/images/team-3.jpg"
+      }
+    ]
+  },
+  "about_more": {
+    "sections": [
+      {
+        "title": "Cafenux, nicht nur in der Türkei,",
+        "text": "Cafenux beschränkt sich nicht nur auf Bestell- und Lagerverwaltung; mit dem Selbstbedienungsmodul können Ihre Kunden ihre Bestellungen schnell selbst aufgeben. Mit dem integrierten Restaurant-Reservierungssystem können Sie Ihre Tischplanung im Voraus erledigen und auch in Stoßzeiten perfekten Service bieten.\n\nUm Ihre finanziellen Prozesse zu erleichtern, ermöglicht Ihnen das Restaurant-Buchhaltungsprogramm eine mühelose Einnahmen- und Ausgabenverfolgung. Mit der Unterstützung von Café-Lagerverfolgung und Café-Automatisierungssystemen können Sie die Produktbewegungen aller Filialen in Echtzeit überwachen.\n\nDas Café-Zahlungssystem erleichtert schnelle und sichere Transaktionen. Darüber hinaus helfen Ihnen die Module für Kundenmanagement und Restaurant-Treueprogramme, stärkere Bindungen zu Ihren Kunden aufzubauen und die Wiederbesuchsrate zu erhöhen.\n\nDie erweiterte Bestellverfolgung und die flexible Restaurant-Software-Struktur von Cafenux passen sich Unternehmen jeder Größe an. Zusätzlich bringt das benutzerfreundliche Café-Management-Programm alle Module in einem einzigen Panel zusammen, um Ihrem Unternehmen maximale Effizienz zu bieten."
+      },
+      {
+        "title": "Die von Cafenux angebotenen Reporting-Module,",
+        "text": "Ermöglichen es Ihnen, Ihre täglichen und wöchentlichen Umsätze, Ihre meistverkauften Produkte und Ihre Stoßzeiten zu analysieren. So können Sie strategische Entscheidungen auf Basis von Daten treffen. Dank der mobilen Kompatibilität können Manager den gesamten Prozess von überall über Tablets oder Smartphones kontrollieren.\n\nCafenux ist nicht nur eine Software, sondern eine digitale Lösung für das Wachstum Ihres Unternehmens. Mit modernem Design, benutzerfreundlicher Oberfläche und kontinuierlichen Updates ist es die perfekte Wahl für kleine Unternehmen, die ein <strong>günstiges Kassensystem</strong> suchen, ebenso wie für große Restaurantketten. Mit Cafenux reduzieren Sie Ihre Arbeitslast, erhöhen die Kundenzufriedenheit und führen Ihr Unternehmen in die Zukunft."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Zahlungsinformationen",
+    "invoice": {
+      "label": "Rechnung",
+      "items": "Artikel",
+      "item1": "Rechtsberatung",
+      "item2": "Expertenberatung",
+      "qty": "Menge",
+      "price": "Preis",
+      "total": "Gesamt",
+      "totalAmount": "Gesamtbetrag",
+      "note": "Lorem ipsum dolor sit amet elit. Adipisci ea harum sed quaerat tenetur"
+    },
+    "form": {
+      "name": "Name",
+      "cardNumber": "Kartennummer",
+      "generateRandom": "zufällig generieren",
+      "expiration": "Ablaufdatum",
+      "securityCode": "Sicherheitscode",
+      "submit": "Absenden"
+    },
+    "cardSvg": {
+      "cardnumber": "Kartennummer",
+      "cardholdername": "Karteninhaber",
+      "expiration": "Ablaufdatum",
+      "valid": "GÜLTIG",
+      "thru": "BIS"
+    },
+    "money": "€"
+  },
+  "register": {
+    "title": "Registrierungsformular",
+    "form": {
+      "tc": "Ausweisnummer",
+      "name": "Vorname",
+      "surname": "Nachname",
+      "email": "E-Mail",
+      "password": "Passwort",
+      "submit": "Registrieren"
+    },
+    "messages": {
+      "success": "Registrierung erfolgreich!",
+      "error": "Bei der Registrierung ist ein Fehler aufgetreten."
+    }
+  },
+  "login": {
+    "title": "Anmelden",
+    "form": {
+      "tc": "Ausweisnummer",
+      "user": "E-Mail",
+      "password": "Passwort",
+      "submit": "Senden"
+    },
+    "messages": {
+      "success": "Anmeldung erfolgreich!",
+      "error": "Ungültiger Benutzername oder Passwort."
+    }
+  }
+}

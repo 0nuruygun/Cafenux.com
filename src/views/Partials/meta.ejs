@@ -1,0 +1,51 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="author" content="Scrart Software">
+
+<!-- Çok dilli meta veriler -->
+<meta name="description" content="<%= t('meta.description') %>">
+<meta name="keywords" content="<%= t('meta.keywords') %>">
+
+<!-- Hreflang & Canonical -->
+<link rel="alternate" hreflang="tr" href="https://www.cafenux.com/tr/">
+<link rel="alternate" hreflang="en" href="https://www.cafenux.com/en/">
+<link rel="alternate" hreflang="fr" href="https://www.cafenux.com/fr/">
+<link rel="alternate" hreflang="es" href="https://www.cafenux.com/es/">
+<link rel="alternate" hreflang="de" href="https://www.cafenux.com/de/">
+<link rel="alternate" hreflang="ru" href="https://www.cafenux.com/ru/">
+<link rel="alternate" hreflang="x-default" href="https://www.cafenux.com/">
+<link rel="canonical" href="https://www.cafenux.com/<%= locale %>/" />
+
+<!-- ✅ Open Graph (dinamik dil destekli) -->
+<meta property="og:title" content="<%= t('meta.title') %>" />
+<meta property="og:description" content="<%= t('meta.description') %>" />
+<meta property="og:image" content="https://www.cafenux.com/assets/images/og-image.jpg" />
+<meta property="og:url" content="https://www.cafenux.com/<%= locale %>/" />
+<meta property="og:site_name" content="Cafenux" />
+<meta property="og:type" content="website" />
+<meta property="og:locale" content="<%= locale === 'tr' ? 'tr_TR' : locale === 'en' ? 'en_US' : locale === 'fr' ? 'fr_FR' : locale === 'es' ? 'es_ES' : locale === 'de' ? 'de_DE' : 'ru_RU' %>" />
+
+<!-- ✅ Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="<%= t('meta.title') %>" />
+<meta name="twitter:description" content="<%= t('meta.description') %>" />
+<meta name="twitter:image" content="https://www.cafenux.com/assets/images/og-image.jpg" />
+
+<!-- ✅ Structured Data (LocalBusiness) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "Cafenux",
+  "image": "https://www.cafenux.com/assets/images/logo.png",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Van Teknokent, Bardakçı",
+    "addressLocality": "Van",
+    "addressCountry": "TR"
+  },
+  "telephone": "+90 538 070 8860",
+  "email": "info@scrart.com",
+  "url": "https://www.cafenux.com/"
+}
+</script>

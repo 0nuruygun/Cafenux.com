@@ -1,0 +1,289 @@
+{
+  "menu": {
+    "home": "Ana Sayfa",
+    "product": "Ürün",
+    "services": "Hizmetler",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "lang": "Dil",
+    "user": "Üye",
+    "login": "Giriş",
+    "register": "Kayıt",
+    "payment": "Ödeme"
+  },
+  "meta": {
+    "title": "Cafenux | Cafeterya Yönetim ve Adisyon Sistemi",
+    "description": "Cafenux Cafeterya Yönetim Sistemi ve Adisyon Programı ile restoran otomasyonu, QR kod menü, stok takibi ve çok şubeli kafe yönetimini kolayca yapın.",
+    "keywords": "cafeterya yönetim sistemi, adisyon programı, restoran otomasyon yazılımı, kafe adisyon yazılımı, restoran yönetim yazılımı, qr kod menü, garson el terminali destekli adisyon, mobil adisyon sistemi, self servis kafe yazılımı, restoran sipariş yönetim sistemi, cafeterya stok takip programı, küçük işletmeler için uygun fiyatlı adisyon programı, hızlı adisyon alma yazılımı, paket servis ve masa sipariş yönetimi, çok şubeli kafe yönetim sistemi, müşteri memnuniyeti için kafe yazılımı, bulut tabanlı restoran yönetimi, adisyon programı fiyatları"
+  },
+  "brand": "Cafenux Cafeterya Yönetim Sistemi",
+  "rights": "Tüm hakları saklıdır.",
+  "footer": {
+    "addressLabel": "Adres",
+    "address": "Van Teknokent, Bardakçı, 65090 Van Merkez/Van",
+    "contact": "İletişim",
+    "emailLabel": "Mail",
+    "email": "info@scrart.com",
+    "phoneLabel": "Telefon",
+    "phone": "+90 538 070 8860"
+  },
+  "slider": {
+    "alt": "Cafenux Cafeterya Yönetim Sistemi",
+    "cta": {
+      "freeDemo": "Ücretsiz Demo Alın",
+      "seeDetails": "Detayları Görün"
+    },
+    "1": {
+      "top": "İşletmenizi Geleceğe Taşıyın",
+      "middle": {
+        "blue": "Bulut Tabanlı",
+        "red": "Cafe Yönetimi"
+      },
+      "p1": "Mobil adisyon sistemi ve çok şubeli",
+      "p2": "kafe yönetim sistemi ile hızınıza hız katın."
+    },
+    "2": {
+      "top": "Hızlı ve Güvenilir Adisyon Sistemi",
+      "middle": {
+        "blue": {
+          "line1": "Personel",
+          "line2": "Performans"
+        },
+        "red": "Ölçümü Yapın"
+      },
+      "p1": "Hatalı yanlış eksik siparişleri sıfıra indirin.",
+      "p2": "Müşterilerinizin memnuniyetini kazanın"
+    },
+    "3": {
+      "top": "Siparişlerinizi Anlık Takip Edin",
+      "middle": {
+        "blue": "Online Takip ve",
+        "red": "Ciro Kontrolü"
+      },
+      "p1": "Restoran sipariş yönetim sistemi",
+      "p2": "ve detaylı performans analizleri",
+      "pTail": " ile işletmenizin kontrolü her zaman elinizde."
+    },
+    "4": {
+      "top": "Rezervasyon yönetiminizi güçlendirin",
+      "middle": {
+        "blue": "Kolay Kategori ve",
+        "red": "Ürün Yönetimi"
+      },
+      "p1": "Kategorileri ve Ürünlerinizi Özelleştirin",
+      "p2": "Satış rakamlarını karşılaştırarak ürün",
+      "pTail": " yönetiminizi güçlendirin."
+    }
+  },
+  "services": {
+    "1": {
+      "title": "Akıllı Adisyon Yönetimi",
+      "desc": "Cafenux ile siparişlerinizi hızlı ve hatasız yönetin. Akıllı adisyon sistemi ile masa, garson ve ürün takibi artık çok kolay."
+    },
+    "2": {
+      "title": "Online Sipariş Takibi",
+      "desc": "Müşteri siparişlerini anlık takip edin. QR kod destekli mobil sipariş sistemi ile hız ve güveni aynı anda yaşayın."
+    },
+    "3": {
+      "title": "Performans Kontrol Paneli",
+      "desc": "Garson ve mutfak performansınızı detaylı raporlarla görüntüleyin. Yönetim paneli sayesinde tüm süreçleri tek ekrandan kontrol edin."
+    },
+    "4": {
+      "title": "Mobil Uyumlu Menü",
+      "desc": "Müşterilerinize QR kod ile dijital menü sunun. Mobil uyumlu tasarım sayesinde sipariş deneyimini modernleştirin."
+    },
+    "5": {
+      "title": "Entegre Raporlama",
+      "desc": "Satış, ürün ve stok raporlarınızı detaylı analiz edin. Cafeteria yönetiminde verimliliği artıran güçlü raporlama aracı."
+    }
+  },
+  "about": {
+    "title": "Cafenux Cafeterya Yönetim Sistemi,",
+    "description": "Restoran otomasyonu ve <strong>adisyon programı</strong> alanında modern işletmeler için özel olarak geliştirilmiştir. QR kod menü desteği sayesinde müşterileriniz siparişlerini hızlı, güvenilir ve temassız verebilir. Aynı zamanda garson el terminali entegrasyonu ile hem mutfak hem de servis süreçlerini eş zamanlı yönetebilirsiniz. Cafenux’un sunduğu <strong>restoran yönetim yazılımı</strong> ve <strong>kafe adisyon yazılımı</strong> çözümleri, müşteri memnuniyetini artırarak siparişlerdeki karışıklıkları tamamen ortadan kaldırır. Ayrıca, <strong>çok şubeli kafe yönetimi</strong> desteği sayesinde farklı lokasyonlardaki işletmelerinizi tek panel üzerinden kontrol edebilir, stok takibi, garson performans ölçümü ve satış analizlerini kolayca gerçekleştirebilirsiniz. Cafenux, küçük işletmeler için uygun fiyatlı <strong>mobil adisyon sistemi</strong> arayışına da en iyi cevabı verir; esnek ve bulut tabanlı yapısıyla her ölçekteki işletmeye hitap eder. Kullanıcı dostu arayüzü sayesinde personeliniz minimum eğitimle sisteme uyum sağlar, böylece iş süreçlerinizde hız ve verimlilik elde edersiniz."
+  },
+  "process": {
+    "subtitle": "Cafenux ile tanışın",
+    "title": "Akıllı Kafeterya Yönetim Sistemi",
+    "steps": {
+      "1": {
+        "title": "Kolay Sipariş Yönetimi",
+        "desc": "Cafenux, QR kod ve dijital menü desteği ile siparişlerinizi hızlı ve hatasız şekilde yönetmenizi sağlar."
+      },
+      "2": {
+        "title": "Masa ve Garson Takibi",
+        "desc": "Her masa ve garson için anlık performans raporları alabilir, müşteri memnuniyetini artırabilirsiniz."
+      },
+      "3": {
+        "title": "Online Sipariş Takibi",
+        "desc": "Müşterilerinizin siparişlerini anında görüntüleyin ve mutfak süreçlerinizi daha verimli yönetin."
+      },
+      "4": {
+        "title": "Gelişmiş Raporlama",
+        "desc": "Satış ve ürün raporlarını detaylı analiz ederek işletmenizin kârlılığını artırın."
+      },
+      "5": {
+        "title": "Mobil Uyumlu Çözüm",
+        "desc": "Tüm cihazlarla uyumlu yapısı sayesinde işletmenizi dilediğiniz yerden yönetin. Garson sipariş uygulaması ile performans denetleyin."
+      }
+    }
+  },
+  "apps": {
+    "subtitle": "Cafenux ile avantajları keşfedin",
+    "title": "Profesyonel Kafeterya Çözümleri",
+    "description": "Cafenux, işletmelerin ihtiyaçlarına özel paket çözümler sunarak yüksek maliyetli sunuculara ihtiyaç duymadan profesyonel yönetim sağlar. Güvenli, ölçeklenebilir ve 7/24 destek imkanıyla her zaman yanınızda olan Cafenux; <strong>bulut tabanlı restoran yönetimi</strong>, <strong>qr kod menü</strong>, <strong>akıllı adisyon sistemi</strong> ve entegre raporlama modülleri ile sektörde fark yaratır. İşletmeler, <strong>garson el terminali</strong> ve mobil cihaz desteği sayesinde siparişleri daha hızlı ve hatasız alır. Aynı zamanda, <strong>paket servis yönetimi</strong> ve masa sipariş kontrolü modülleri ile müşteri memnuniyetini en üst düzeye taşır. Cafenux sayesinde yalnızca satışları artırmakla kalmaz, iş yükünüzü de azaltırsınız. Düzenli güncellemeler ile sistem her zaman güncel kalır ve gelişen ihtiyaçlarınıza uyum sağlar. Böylece Cafenux, restoran ve kafe işletmeciliğinde güvenilir bir dijital partner haline gelir."
+  },
+  "plans": {
+    "cta": "Daha Fazla Gör",
+    "choice": [
+      {
+        "name": "Başlangıç Planı",
+        "price": "$19",
+        "duration": "3 Ay",
+        "features": [
+          "Modern & Yaratıcı Tasarım",
+          "Premium Eklentiler",
+          "Temiz Kod",
+          "Duyarlı Tasarım",
+          "Google Yazı Tipleri",
+          "Yüksek Özelleştirme"
+        ]
+      },
+      {
+        "name": "Standart Plan",
+        "price": "$59",
+        "duration": "6 Ay",
+        "features": [
+          "Modern & Yaratıcı Tasarım",
+          "Premium Eklentiler",
+          "Temiz Kod",
+          "Duyarlı Tasarım",
+          "Google Yazı Tipleri",
+          "Yüksek Özelleştirme"
+        ]
+      },
+      {
+        "name": "Premium Plan",
+        "price": "$99",
+        "duration": "12 Ay",
+        "features": [
+          "Modern & Yaratıcı Tasarım",
+          "Premium Eklentiler",
+          "Temiz Kod",
+          "Duyarlı Tasarım",
+          "Google Yazı Tipleri",
+          "Yüksek Özelleştirme"
+        ]
+      }
+    ]
+  },
+  "gallery": {
+    "title": "CafeNux Galeri",
+    "members": [
+      {
+        "name": "Jason Wudex",
+        "role": "Grade One",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Mia Twain",
+        "role": "Grade Two",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Peter Farry",
+        "role": "Grade One",
+        "image": "assets/images/team-3.jpg"
+      },
+      {
+        "name": "Hayden Wood",
+        "role": "Grade Three",
+        "image": "assets/images/team-4.jpg"
+      },
+      {
+        "name": "Shania Jackson",
+        "role": "Grade Two",
+        "image": "assets/images/team-1.jpg"
+      },
+      {
+        "name": "Jessica Biel",
+        "role": "Grade Five",
+        "image": "assets/images/team-2.jpg"
+      },
+      {
+        "name": "Jessica Jung",
+        "role": "Grade Three",
+        "image": "assets/images/team-3.jpg"
+      }
+    ]
+  },
+  "about_more": {
+    "sections": [
+      {
+        "title": "Cafenux, sadece Türkiye’de değil,",
+        "text": "Cafenux, yalnızca sipariş ve stok yönetimiyle sınırlı kalmaz; self servis sipariş modülü sayesinde müşterileriniz kendi siparişlerini hızlıca verebilir. Ayrıca entegre restoran rezervasyon sistemi ile masa planlamalarınızı önceden yapabilir, yoğun saatlerde bile kusursuz hizmet sağlayabilirsiniz.\n\nFinansal süreçlerinizi kolaylaştırmak için restoran muhasebe programı özelliği ile gelir-gider takibini zahmetsizce yapabilirsiniz. Ayrıca kafe stok takibi ve kafe otomasyon sistemi desteği ile tüm şubelerinizin ürün hareketlerini anlık izleyebilirsiniz.\n\nMüşterilerin ödemelerini kolaylaştıran kafe ödeme sistemi, hızlı ve güvenli işlem imkanı sunar. Dahası, restoran müşteri yönetimi ve restoran sadakat programı modülleri sayesinde müşterilerinizle güçlü bağlar kurabilir, tekrar ziyaret oranlarını artırabilirsiniz.\n\nCafenux’un gelişmiş adisyon takibi ve esnek restoran işletme yazılımı yapısı, farklı büyüklükteki işletmelere uyum sağlar. Bütün bunların yanında, kullanıcı dostu kafe yönetim programı, tüm modülleri tek panelde bir araya getirerek işletmenize maksimum verimlilik kazandırır."
+      },
+      {
+        "title": "Cafenux’un sunduğu raporlama modülleri,",
+        "text": "Günlük ve haftalık cirolarınızı, en çok satan ürünlerinizi ve yoğun saat dilimlerini analiz etmenizi sağlar. Bu sayede işletme stratejilerinizi veriye dayalı kararlarla şekillendirebilirsiniz. Ayrıca sistemimiz mobil uyumlu yapısı sayesinde yöneticilerin diledikleri yerden, tablet veya telefon üzerinden tüm süreci kontrol etmesine imkan verir.\n\nCafenux sadece bir yazılım değil, işletmenizin büyümesi için dijital bir çözümdür. Modern tasarımı, kullanıcı dostu arayüzü ve sürekli güncellenen yapısıyla küçük işletmeler için uygun fiyatlı adisyon programı arayanlardan büyük zincir restoranlara kadar herkes için mükemmel bir tercihtir. Cafenux ile iş yükünüzü azaltın, müşteri memnuniyetini artırın ve işletmenizi geleceğe taşıyın."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Ödeme Bilgileri",
+    "invoice": {
+      "label": "Fatura",
+      "items": "Ürünler",
+      "item1": "Hukuki Danışmanlık",
+      "item2": "Uzman Danışmanlık",
+      "qty": "Adet",
+      "price": "Fiyat",
+      "total": "Toplam",
+      "totalAmount": "Genel Toplam",
+      "note": "Lorem ipsum dolor sit amet elit. Adipisci ea harum sed quaerat tenetur"
+    },
+    "form": {
+      "name": "Ad Soyad",
+      "cardNumber": "Kart Numarası",
+      "generateRandom": "rastgele oluştur",
+      "expiration": "Son Kullanma",
+      "securityCode": "Güvenlik Kodu",
+      "submit": "Gönder"
+    },
+    "cardSvg": {
+      "cardnumber": "kart numarası",
+      "cardholdername": "kart sahibi",
+      "expiration": "son kullanma",
+      "valid": "TARİHİNE",
+      "thru": "KADAR"
+    },
+    "money": "₺"
+  },
+  "register": {
+    "title": "Kayıt Formu",
+    "form": {
+      "tc": "Tc",
+      "name": "İsim",
+      "surname": "Soyisim",
+      "email": "E-Posta",
+      "password": "Şifre",
+      "submit": "Kayıt Ol"
+    },
+    "messages": {
+      "success": "Kayıt başarılı!",
+      "error": "Kayıt sırasında bir hata oluştu."
+    }
+  },
+  "login": {
+    "title": "Giriş Yap",
+    "form": {
+      "tc": "Tc",
+      "user": "E-Posta",
+      "password": "Şifre",
+      "submit": "Gönder"
+    },
+    "messages": {
+      "success": "Giriş başarılı!",
+      "error": "Geçersiz kullanıcı adı veya şifre."
+    }
+  }
+}
