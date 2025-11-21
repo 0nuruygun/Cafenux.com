@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- INDEX -->
+  <url>
+    <loc>https://www.cafenux.com/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.cafenux.com/tr/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cafenux.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.cafenux.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.cafenux.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.cafenux.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.cafenux.com/ru/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.cafenux.com/en/"/>
+  </url>
+
+  <!-- LOGIN -->
+  <url>
+    <loc>https://www.cafenux.com/login</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.cafenux.com/tr/login"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cafenux.com/en/login"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.cafenux.com/fr/login"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.cafenux.com/es/login"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.cafenux.com/de/login"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.cafenux.com/ru/login"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.cafenux.com/en/login"/>
+  </url>
+
+  <!-- REGISTER -->
+  <url>
+    <loc>https://www.cafenux.com/register</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.cafenux.com/tr/register"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cafenux.com/en/register"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.cafenux.com/fr/register"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.cafenux.com/es/register"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.cafenux.com/de/register"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.cafenux.com/ru/register"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.cafenux.com/en/register"/>
+  </url>
+
+  <!-- PAYMENT -->
+  <url>
+    <loc>https://www.cafenux.com/payment</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://www.cafenux.com/tr/payment"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.cafenux.com/en/payment"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.cafenux.com/fr/payment"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.cafenux.com/es/payment"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.cafenux.com/de/payment"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://www.cafenux.com/ru/payment"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.cafenux.com/en/payment"/>
+  </url>
+</urlset>

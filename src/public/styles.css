@@ -1,0 +1,202 @@
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #121212;
+    /* fallback for old browsers */
+    overflow-x: hidden;
+
+    height: 100%;
+
+    /* code to make all text unselectable */
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+/* Disables selector ring */
+body:not(.user-is-tabbing) button:focus,
+body:not(.user-is-tabbing) input:focus,
+body:not(.user-is-tabbing) select:focus,
+body:not(.user-is-tabbing) textarea:focus {
+    outline: none;
+}
+
+/* ########################################################## */
+
+h1 {
+    color: white;
+
+    font-size: 35px;
+    font-weight: 800;
+}
+
+.flex-container {
+    width: 100vw;
+
+    margin-top: 60px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content-container {
+    width: 500px;
+    height: 350px;
+}
+
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    width: 500px;
+
+    margin-top: 5px;
+    padding-top: 20px;
+
+    border-radius: 12px;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    background: #1f1f1f;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.199);
+}
+
+span {
+    font-size: 11px;
+
+    color: rgba(177, 177, 177, 0.3);
+}
+
+input {
+    border: none;
+    border-bottom: solid rgb(143, 143, 143) 1px;
+
+    margin-bottom: 30px;
+
+    background: none;
+    color: rgba(255, 255, 255, 0.555);
+
+    height: 35px;
+    width: 300px;
+}
+
+input[type="submit"] {
+    cursor: pointer;
+
+    border: none;
+    border-radius: 8px;
+
+    box-shadow: 2px 2px 7px #38d39f70;
+
+    background: #38d39f !important;
+    color: rgba(255, 255, 255, 0.8);
+
+    width: 80px;
+
+    transition: all 1s;
+}
+
+.submit-btn:hover {
+    color: rgb(255, 255, 255);
+
+    box-shadow: none;
+}
+
+.output-message {
+    color: #fff;
+}
+
+.price_header_text {
+    z-index: 1;
+    font-size: 18px;
+    position: relative;
+    font-weight: normal;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.price_header {
+    background-color: #002450;
+    padding: 20px 0 20px 0;
+    -webkit-transition: 0.5s ease;
+    -o-transition: 0.5s ease;
+    transition: 0.5s ease;
+    border-bottom: 1px solid transparent;
+}
+
+.actual_price {
+    font-size: 36px;
+    z-index: 1;
+    color: #002450;
+    text-align: center;
+    padding-top: 40px;
+    position: relative;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.slider-section {
+    margin-top: -100px;
+    padding-bottom: 100px;
+}
+
+.tp-bgimg {
+    margin-top: 100px;
+    padding-bottom: 100px;
+}
+
+@media screen and (min-width: 1150px) {
+    .mar {
+        margin-right: 100px !important;
+    }
+
+
+}
+
+@media screen and (max-width: 1350px) {
+    .mar {
+        margin-right: 150px !important;
+    }
+
+    .tp-bgimg {
+        filter: opacity(0.3);
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .tp-bgimg {
+        background-size: cover;
+        background-position: center !important;
+        padding-top: 100px;
+    }
+
+    .he {
+        height: 105% !important;
+        margin-top: 50px !important;
+    }
+}
+
+@media screen and (max-width: 785px) {
+    .mar {
+        margin-right: 0 !important;
+    }
+}
+
+.rev-slidebg {
+    background-size: contain !important;
+}
